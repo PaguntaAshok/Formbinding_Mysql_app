@@ -11,7 +11,7 @@
 	<groupId>com.it</groupId>
 	<artifactId>Web_Mysql_App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Web_Mysql_App</name>
 	<description>spring with rest api</description>
 	<properties>
